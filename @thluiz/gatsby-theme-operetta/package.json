@@ -1,8 +1,8 @@
 {
-  "name": "@narative/gatsby-theme-novela",
-  "author": "dennis@narative.co",
-  "repository": "https://github.com/narative/gatsby-theme-novela",
-  "version": "0.17.0",
+  "name": "gatsby-theme-operetta",
+  "author": "contato@thluiz.com",
+  "repository": "https://github.com/thluiz/gatsby-theme-operetta",
+  "version": "0.0.7",
   "main": "index.js",
   "license": "MIT",
   "keywords": [
@@ -11,6 +11,7 @@
     "gatsby-plugin",
     "gatsby-theme",
     "gatsby-theme-novela",
+    "gatsby-theme-operetta",
     "blog",
     "medium",
     "articles",

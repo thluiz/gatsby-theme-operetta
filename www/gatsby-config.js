@@ -53,7 +53,7 @@ const siteMetadata = {
 
 const plugins = [
   {
-    resolve: "@narative/gatsby-theme-novela",
+    resolve: "gatsby-theme-operetta",
     options: {
       contentPosts: "content/posts",
       contentAuthors: "content/authors",
